@@ -1,0 +1,31 @@
+{
+	"name": "node-throttle-debounce",
+	"version": "1.0.0",
+	"description": "Rewrite of [http://benalman.com/projects/jquery-throttle-debounce-plugin/](http://benalman.com/projects/jquery-throttle-debounce-plugin/) for nodejs",
+	"main": "throttle-debounce.js",
+	"scripts": {
+		"pretest": "eslint --max-warnings 0 --report-unused-disable-directives ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PrincessRTFM/node-throttle-debounce.git"
+	},
+	"keywords": [],
+	"author": "Lilith Song <lsong@princessrtfm.com> (https://github.com/PrincessRTFM/)",
+	"license": "(MIT OR GPL-2.0-only)",
+	"bugs": {
+		"url": "https://github.com/PrincessRTFM/node-throttle-debounce/issues"
+	},
+	"homepage": "https://github.com/PrincessRTFM/node-throttle-debounce#readme",
+	"private": true,
+	"dependencies": {},
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-plugin-eslint-comments": "^3.1.2",
+		"eslint-plugin-import": "^2.19.1",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-sonarjs": "^0.5.0",
+		"eslint-plugin-unicorn": "^15.0.1"
+	},
+	"optionalDependencies": {}
+}
