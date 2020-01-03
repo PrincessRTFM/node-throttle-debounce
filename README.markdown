@@ -82,12 +82,7 @@ See [http://benalman.com/code/projects/jquery-throttle-debounce/docs/](http://be
 
 # License
 
-## Original code
-
 Copyright (c) 2010 "Cowboy" Ben Alman
 Dual licensed under the MIT and GPL licenses.
 [http://benalman.com/about/license/](http://benalman.com/about/license/)
 
-## Rewritten fork
-
-The same, unless the original author gets back to me and says I'm allowed to relicense because it's a significant (although admittedly not _total_) rewrite.
